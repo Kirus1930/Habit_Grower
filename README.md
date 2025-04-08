@@ -2,6 +2,7 @@
 Документация по приложению "Трекинг привычек".
 
 Технологии: React Native, Expo Router, TypeScript
+
 Библиотеки: Lucide React Native, React Navigation
 
 --> Основные экраны и их возможности:
